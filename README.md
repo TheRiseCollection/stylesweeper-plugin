@@ -1,8 +1,8 @@
 # styleSweepr
 
-*styleSweeper* is a command-line tool designed to detect inline styles in your project files. It scans files like '.html', '.jsx', and '.tsx' for inline 'style' attributes or CSS-in-JS patterns, helping you maintain a clean and organized codebase by identifying styles that could be moved to external stylesheets.
+A CLI tool designed to detect inline styles in your project files. It scans files like '.html', '.jsx', and '.tsx' for inline 'style' attributes or CSS-in-JS patterns, helping you maintain a clean and organized codebase by identifying styles that could be moved to external stylesheets.
 
-Follow the repo - https://github.com/TheRiseCollection/stylesweeper-plugin
+https://github.com/TheRiseCollection/stylesweeper-plugin
 
 ## Features
 

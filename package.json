@@ -1,7 +1,7 @@
 {
   "name": "stylesweeper",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.4",
+  "description": "A CLI tool designed to detect inline styles in your project files",
   "main": "index.js",
   "bin": {
     "sweep": "./index.js"
